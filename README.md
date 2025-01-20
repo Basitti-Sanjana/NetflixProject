@@ -1,4 +1,4 @@
-# Netflix Frontend Clone
+# Netflix Frontend Design
 
 This repository contains a frontend-only clone of Netflix, developed using HTML, CSS, and JavaScript. The project aims to replicate the look and feel of Netflix's user interface for educational and portfolio purposes.
 
