@@ -67,10 +67,4 @@ netflix-frontend-clone/
 - Include additional pages like "Account Settings" and "Help Center."
 - Enhance animations and transitions for a smoother experience.
 
-## License
 
-This project is for educational purposes only and is not affiliated with or endorsed by Netflix. Do not use this project for commercial purposes.
-
----
-
-Feel free to contribute or provide feedback!
