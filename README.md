@@ -57,7 +57,7 @@ netflix-frontend-clone/
 
 ## Screenshots
 
-![image alt](https://github.com/Basitti-Sanjana/Netflix_Frontend/blob/b88c850c9a4cc36f3fdd0de517d5e30df7eedf31/NetFlixHome.png)
+![image alt](https://github.com/Basitti-Sanjana/NetflixProject/blob/baf2cbd29979928afd1d497b895f90d36ba15a74/NetFlixHome.png)
 
 ![image alt](https://github.com/Basitti-Sanjana/Netflix_Frontend/blob/9cd5ec4da8bf19cb5d3dbafef93de0de8e8b1264/NetFlixPage2.png)
 
